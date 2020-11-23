@@ -5,7 +5,7 @@ public class Impar_par {
     public static void main(String[] args)
     {  
      // descubra quais são os n° de 1000 a 1500 que são impares ou pares.   
-     double num, result; 
+     double result; 
           
      int ini = 1000;
      int fim = 1500;
